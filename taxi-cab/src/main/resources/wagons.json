@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Skoda Octavia",
+		"price": 14300,
+		"fuelConsuption": 9.7,
+		"maxSpeed": 203,
+		"trunkVolume": 530
+	},
+	{
+		"name": "Lada Vesta",
+		"price": 11800,
+		"fuelConsuption": 9.4,
+		"maxSpeed": 168,
+		"trunkVolume": 420
+	},
+	{
+		"name": "VW Passat",
+		"price": 14800,
+		"fuelConsuption": 9.5,
+		"maxSpeed": 207,
+		"trunkVolume": 580   
+	}
+]

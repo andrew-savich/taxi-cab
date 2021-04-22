@@ -1,0 +1,23 @@
+[
+	{
+		"name": "VW Sharan",
+		"price": 15200,
+		"fuelConsuption": 10.0,
+		"maxSpeed": 183,
+		"additionalPlaces": "2"
+	},
+	{
+		"name": "Ford Galaxy",
+		"price": 14900,
+		"fuelConsuption": 9.8,
+		"maxSpeed": 185,
+		"additionalPlaces": "3"
+	},
+	{
+		"name": "Toyota Prius",
+		"price": 21300,
+		"fuelConsuption": 4.5,
+		"maxSpeed": 190,
+		"additionalPlaces": "2"   
+	}
+]

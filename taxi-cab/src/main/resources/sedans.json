@@ -1,0 +1,23 @@
+[
+	{
+		"name": "VW Polo",
+		"price": 13400,
+		"fuelConsuption": 9.2,
+		"maxSpeed": 178,
+		"rideOption": "COMFORT"
+	},
+	{
+		"name": "Skoda Rapid",
+		"price": 12600,
+		"fuelConsuption": 9.1,
+		"maxSpeed": 175,
+		"rideOption": "ECONOMY" 
+	},
+	{
+		"name": "Lada Vesta",
+		"price": 11800,
+		"fuelConsuption": 9.4,
+		"maxSpeed": 168,
+		"rideOption": "PREMIUM"   
+	}
+]
